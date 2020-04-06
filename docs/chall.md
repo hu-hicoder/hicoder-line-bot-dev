@@ -69,7 +69,8 @@
 - つまり、開発環境としてWSLを使います。
 - https://ynucpc.github.io/blog/2020/03/24/howtowsl-vscode/ こちらの記事でWSLの導入方法とVSCodeの設定(settings.json)が触れられています。これを参考にWSLを導入してください。usernameはスペースを使わないで、自分の名前と関係ない短いものにすると良いと思います。例えば僕は`uta8a`か`kaito`を使っています。
 - なにか困ったことがあればdiscordで質問してください。これはたいへん難しい課題だと思います。
-- できたらUbuntuを起動して、
+- インストールできたら、VSCodeの設定(settings.json)がきちんとできているか確認してください。
+- できたらVSCodeでフォルダを開いて、ターミナルを開いてください。そこにコマンドを打ちます。
 ```
 sudo apt update
 sudo apt upgrade
