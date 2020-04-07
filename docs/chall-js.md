@@ -34,6 +34,7 @@ git pull
 - JSを書く
 - github.ioでのHosting
 - 変更の仕方
+- その後の選択肢 React, Vueの紹介, CSS Animation, hugoのようなstatic site generator
 
 # 課題14
 - glitchから離れて、GitHubに自分のwebpageを作ってみましょう。
