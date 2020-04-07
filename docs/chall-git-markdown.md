@@ -158,3 +158,14 @@ git push origin dev
 - 不備や分かりにくいところ見つけたら指摘をお願いします。資料を良くしていきたいので、反応頂けると嬉しいです。
 - 次はいよいよJavaScriptを学んでいきます。
 - [次の課題へのリンク](./chall-js.md)
+
+# Extra
+- これはやらなくてもいい課題です。余裕がある方は取り組んでみてください。
+- gitの理解を深めるためのチュートリアルの紹介です。
+- `learn git branch` https://learngitbranching.js.org/ という、gitの仕組みについて理解を深めるチュートリアルがあります。
+- はじめから埋めていくとよくて、途中までの解説は https://github.com/hu-hicoder/web-reading/blob/master/cX-learn-git-branch.md に書きました。ちょっと操作方法が分かりづらいので参考にしてください。
+- 自動的にやったとこがブラウザのキャッシュに保存されているので、ブラウザを閉じてもまた開けば続きから学ぶことができます。
+- 割と重いので、すべてを一度にやるのは難しいです。commit, hash, HEADといった概念が登場したらひとつひとつ調べて`hicoder-line-bot-dev/docs/workspace/<yourname>`に書いてください(pullreqを送る練習だと思って本体へ送ってみてください)
+- 調べるときは git-scm ( https://git-scm.com/book/ja/v2 など)が一番信頼できると思います。もちろん他のサイトを見てもOKです。
+- すべてをする必要はありません。途中でやめて全然OKです。
+- ではチャレンジしてみましょう。頑張ってください！
