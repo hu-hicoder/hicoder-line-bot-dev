@@ -18,7 +18,7 @@ git pull
 - JavaScriptを学ぶに当たって必要な基礎知識を調べてもらいます。
 
 ## 手順
-- 以下の6つの質問に答えて、その答えを`hicoder-line-bot-dev/docs/workspace/<yourname>`以下のMarkdownファイルに書き込んでください。そしてこのリポジトリに対しpull requestを送ってください。
+- 以下の6つの質問に答えて、その答えを`hicoder-line-bot-dev/docs/workspace/<yourname>`以下のMarkdownファイルに書き込んでください。`<yourname>`は自分の名前を入れてください。そしてこのリポジトリに対しpull requestを送ってください。
 - Q1. JavaScriptはどんなところで使われていますか？
 - Q2. ES2015, ES2016という単語はJavaScriptに関係しています。どういう意味でしょうか？
 - Q3. Chrome DevToolsという言葉について調べてみてください。Chrome以外のブラウザの方は、これと同じようなものが自分の普段使っているブラウザにないか探してみてください。
