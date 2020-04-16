@@ -32,8 +32,13 @@ https://github.com/kugimasa
   `htop`入れてみました！
 - [x] 課題6・7・8・9・10
 
+  `git`関連まとめちゃいました...💦🙇‍♂️
+  
   `fork`したものからPR送りました👍
-  まとめちゃいました...💦🙇‍♂️
+  `fork`したものからPR送るのは初だったのでちょっとドキドキしました👀
+
+
+  
 
 ## Frontend & Backend in JavaScript
 - [ ] 課題11
