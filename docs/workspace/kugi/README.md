@@ -17,7 +17,8 @@ https://github.com/kugimasa
   `<img src="assets/[image_name]">`
 
   とかではなく、`assets`で生成されるURLをコピーして使う必要があるみたいです。
-  ![](assets/課題2.png)
+  ![](assets/chal_2.png)
+
 - [x] 課題3
 
   VSCode入ってます👍
@@ -33,7 +34,7 @@ https://github.com/kugimasa
 - [x] 課題6・7・8・9・10
 
   `git`関連まとめちゃいました...💦🙇‍♂️
-  
+
   `fork`したものからPR送りました👍
   `fork`したものからPR送るのは初だったのでちょっとドキドキしました👀
 
