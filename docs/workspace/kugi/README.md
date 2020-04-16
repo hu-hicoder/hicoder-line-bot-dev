@@ -38,9 +38,6 @@ https://github.com/kugimasa
   `fork`したものからPR送りました👍
   `fork`したものからPR送るのは初だったのでちょっとドキドキしました👀
 
-
-  
-
 ## Frontend & Backend in JavaScript
 - [ ] 課題11
 - [ ] 課題12
