@@ -1,14 +1,14 @@
 # kugi's TASKs
 
 ## Project Setup
-- [x] Step1
+- [x] 課題1
 
-  [課題1] 工学研究科2年のkugiです!よろしくお願いします!
+  工学研究科2年のkugiです!よろしくお願いします!
 https://github.com/kugimasa
 
-- [x] Step2
+- [x] 課題2
 
-  [課題2] 自分が使っている[配色ツール](https://coolors.co/74d3ae-a6c48a-f6e7cb-dd9787-6cbe40)を紹介します！
+  自分が使っている[配色ツール](https://coolors.co/74d3ae-a6c48a-f6e7cb-dd9787-6cbe40)を紹介します！
 ５色の配色をランダムで生成してくれるツールです。
 一部ロックしたりもできます。
 
@@ -17,23 +17,24 @@ https://github.com/kugimasa
   `<img src="assets/[image_name]">`
 
   とかではなく、`assets`で生成されるURLをコピーして使う必要があるみたいです。
-  ![](assets/Step2.png)
-- [x] Step3
+  ![](assets/課題2.png)
+- [x] 課題3
 
-  [課題3] VSCode入ってます👍
-- [x] Step4
+  VSCode入ってます👍
+- [x] 課題4
 
-  [課題4]Macユーザです💻
+  Macユーザです💻
 
 
 ## How2Use git and markdown
-- [ ] Step5
-- [ ] Step6
-- [ ] Step7
-- [ ] Step8
-- [ ] Step9
-- [ ] Step10
+- [x] 課題5
+
+  `htop`入れてみました！
+- [x] 課題6・7・8・9・10
+
+  `fork`したものからPR送りました👍
+  まとめちゃいました...💦🙇‍♂️
 
 ## Frontend & Backend in JavaScript
-- [ ] Step11
-- [ ] Step12
+- [ ] 課題11
+- [ ] 課題12
