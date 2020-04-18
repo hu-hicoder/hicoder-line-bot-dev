@@ -18,7 +18,7 @@ git pull
 - JavaScriptを学ぶに当たって必要な基礎知識を調べてもらいます。
 
 ## 手順
-- 以下の6つの質問に答えて、その答えを`hicoder-line-bot-dev/docs/workspace/<yourname>`以下のMarkdownファイルに書き込んでください。そしてこのリポジトリに対しpull requestを送ってください。
+- 以下の6つの質問に答えて、その答えを`hicoder-line-bot-dev/docs/workspace/<yourname>`以下のMarkdownファイルに書き込んでください。`<yourname>`は自分の名前を入れてください。そしてこのリポジトリに対しpull requestを送ってください。
 - Q1. JavaScriptはどんなところで使われていますか？
 - Q2. ES2015, ES2016という単語はJavaScriptに関係しています。どういう意味でしょうか？
 - Q3. Chrome DevToolsという言葉について調べてみてください。Chrome以外のブラウザの方は、これと同じようなものが自分の普段使っているブラウザにないか探してみてください。
@@ -29,30 +29,34 @@ git pull
 - https://developer.mozilla.org/ja/docs/Web/JavaScript/Guide/Introduction
 - https://developer.mozilla.org/ja/docs/Web/JavaScript
 - あまりJavaScriptを書ける気がしない人はチュートリアルをこなすと良いと思います。 https://prog-8.com/ などのサイトで練習してみてください。(無料版でも十分だと思います) 
-
-# ###ここから未完成パート###
+- 質問の答えがわかったら、`hicoder-line-bot-dev/docs/workspace/<yourname>`以下のMarkdownファイルに書き込んでpullreqを送ってください。
 
 # 課題12
-- glitchの使い方を見て、フロントエンドJavaScriptを書く環境構築をします。
+- 手元での環境構築を後回しにして、glitch上でwebsiteを作ってみましょう。できたらdiscordで報告してwebsiteとcodeへのURLを貼ってください。
 
 ## 手順
 - https://glitch.com/ にアクセスして、hello-webpageからwebpageの雛形を作ります。
-- ここでは、どこに何を書くかを知ることが大切です。
-- 左のFileのところで編集したいファイルを選択します。
-- index.htmlがHTMLを書く場所です。
-- script.jsがJavaScriptを書く場所です。
-- style.cssがCSSを書く場所です。
-- HTMLは枠組みを作ります。
-- CSSは見た目の装飾をします。
-- JavaScriptはボタンを押したときの動作など、動きのあるものやイベントを扱います。
+- サンプルとして [こちら](https://glitch.com/edit/#!/hicoder-dev-sample) を用意したので、これを見て真似したり、自分なりの変更を加えながら自分のwebsiteを作ってみてください。websiteへのリンクは [こちら](https://hicoder-dev-sample.glitch.me)
+- README.mdを見ながらGlitch上でwebsiteを作ってください。できたら
+- 以下、glitchに書いていることと同じです。
+```
+- 以下の要件を満たすwebsiteを作ってください。
+- HTMLを使っている
+- CSSで見た目を整えている
+- 重要: JavaScriptを用いて、動きのあるwebsiteを作っている
+- できたらShareからCodeをdiscordの開発チャンネルでシェアしてください。
+- 分からなかったら質問したり検索してみましょう、頑張ってください！
+```
+- できあがったらURL(code, website)をdiscordの開発チャンネルに貼ってください。
+- 調べたことやわかったことがあれば、`hicoder-line-bot-dev/docs/workspace/<yourname>`以下のMarkdownファイルに書き込んでpullreqを送ってください。
+
+
+# ###ここから未完成パート###
 
 # 課題13
-- glitchでフロントエンドJavaScriptを書いて、webpageを作ってみよう(HTML/CSSも多少書きます。)
+- webpageを作るための環境構築や、知識の習得をしてみよう
 
 ## 手順
-- 
-
-## 課題13.1~
 - 静的Websiteと動的website
 - github.io
 - /homeに作る
@@ -67,6 +71,7 @@ git pull
 # 課題14
 - glitchから離れて、GitHubに自分のwebpageを作ってみましょう。
 - ここがひとつのゴールになります。成果として、自分のホームページが作れるので頑張りましょう！
+
 
 # 課題15
 - バックエンドJavaScriptを書く準備をします。環境構築です。
