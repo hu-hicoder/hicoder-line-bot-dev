@@ -39,7 +39,7 @@ https://github.com/kugimasa
   `fork`したものからPR送るのは初だったのでちょっとドキドキしました👀
 
 ## Frontend & Backend in JavaScript
-- [ ] 課題11
+- [x] 課題11
   - Q1 : **JavaScript**はウェブページをインタラクティブにするために用いられる言語です。
 
   - Q2 : JavaScriptが広く世界で用いられるためにEcma Internationalが標準化を行っています。
@@ -99,4 +99,18 @@ https://github.com/kugimasa
   詳しくは[ドキュメント](https://nodejs.org/ja/docs/)を参照。
 
 
-- [ ] 課題12
+- [x] 課題12
+  - [x] HTMLをつかっている
+  - [x] CSSで見た目を整えている
+  - [x] 重要: JavaScriptを用いて、動きのあるwebsiteを作っている
+  
+  - websiteの[リンク](https://kugi-web-gl.glitch.me/)
+
+  使用したカラーコード
+  ```
+  PEARL AQUA: #84DCC6
+  BRICK RED: #C33C54
+  DARK SLATE GRAY: #254E70
+  METALLIC SEAWEED: #0C7489
+  TEAL BLUE: #37718E
+  ```
