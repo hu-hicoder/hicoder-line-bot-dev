@@ -105,6 +105,7 @@ https://github.com/kugimasa
   - [x] 重要: JavaScriptを用いて、動きのあるwebsiteを作っている
   
   - websiteの[リンク](https://kugi-web-gl.glitch.me/)
+  - codeの[リンク](https://glitch.com/edit/#!/kugi-web-gl?path=index.html:1:0)
 
   使用したカラーコード
   ```
